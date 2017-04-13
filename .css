@@ -1,2 +1,3 @@
 @import url("https://rawgit.com/TickingTime/TickingTimeCSS/master/CSS.css");#main-room .left_section{right:initial;}#main-room .left_section #main_player{float:left;}#main-room .left_section #main_player{border-radius:0 1rem 0 0;}
+
 #chat .chat-container ul.chat-main li.user-illichi .stream-item-content .activity-row .username /* Illichi */ { color:#FF00FF !important;  }
